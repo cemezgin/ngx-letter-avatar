@@ -1,6 +1,25 @@
 {
   "name": "ngx-letter-avatar",
-  "version": "2.0.0",
+  "version": "2.0.1",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cemezgin/ngx-letter-avatar.git"
+  },
+  "keywords": [],
+  "author": "Onur Cem Ezgin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cemezgin/ngx-letter-avatar/issues"
+  },
+  "homepage": "https://github.com/cemezgin/ngx-letter-avatar",
   "peerDependencies": {
     "@angular/common": "^9.1.3",
     "@angular/core": "^9.1.3",
