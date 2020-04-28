@@ -1,0 +1,69 @@
+.shape-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 3px;
+
+    &.bg-1 {
+        background-color: #ffd37a;
+    }
+    &.bg-2 {
+        background-color: #76daff;
+    }
+    &.bg-3 {
+        background-color: #ffa4a4;
+    }
+    &.bg-4 {
+        background-color: #f26c73;
+    }
+    &.bg-5 {
+        background-color: #9d8ed4;
+    }
+    &.bg-6 {
+        background-color: #acda7e;
+    }
+    &.bg-7 {
+        background-color: #7dd5d9;
+    }
+    &.bg-8 {
+        background-color: #fc9269;
+    }
+    &.bg-9 {
+        background-color: #80beeb;
+    }
+    &.bg-10 {
+        background-color: #f1d563;
+    }
+    &.bg-11 {
+        background-color: #53bad9;
+    }
+    &.bg-12 {
+        background-color: #e8b67b;
+    }
+    &.bg-13 {
+        background-color: #6992bd;
+    }
+    &.bg-14 {
+        background-color: #cb597a;
+    }
+    &.bg-15 {
+        background-color: #9cb58e;
+    }
+    &.bg-16 {
+        background-color: #e56d9e;
+    }
+    &.bg-17 {
+        background-color: #538dd9;
+    }
+    &.bg-18 {
+        background-color: #ad72be;
+    }
+
+    .letter-avatar {
+        padding-top: 22px;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        color: #ffffff;
+        text-transform: uppercase;
+    }
+}
